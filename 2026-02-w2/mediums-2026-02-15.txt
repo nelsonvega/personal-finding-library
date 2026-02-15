@@ -1,0 +1,11 @@
+https://medium.com/@bytefer/the-free-open-source-alternative-to-elevenlabs-is-finally-here-3b97edd63e2a
+https://medium.com/modelmind/openai-frontier-the-real-battle-for-enterprise-ai-agents-has-begun-a80a51b02713
+https://medium.com/@harshiljani2002/i-open-sourced-my-amazon-kindle-publishing-pipeline-and-it-has-a-team-of-8-agents-ea97796bb165
+https://alirezarezvani.medium.com/from-subagents-to-agent-teams-claude-codes-multi-agent-leap-and-what-i-actually-change-97edf83a4d5e
+https://medium.com/@meshuggah22/finally-a-native-agentic-framework-for-slms-55858d4284c5
+https://medium.com/@chris.p.hughes10/architecting-multi-agent-systems-evolving-proven-patterns-to-agentic-systems-01b2b90799b6
+https://medium.com/seercurity-spotlight/building-your-first-cybersecurity-ai-agent-with-langgraph-d27107ac872a
+https://medium.com/@kyeg/how-to-monetize-your-agentic-workflows-with-swarms-atp-and-fastapi-11db868a4d64
+https://www.ai-strategy-partners.com/knowledge-hub/mental-models?utm_campaign=13985358-book_lipenkova&utm_source=facebook&utm_medium=social&utm_content=Janna%27s%20AI%20Strategy%20Playbook
+https://online.lifelonglearning.jhu.edu/jhu-online-certificate-program-applied-generative-ai?utm_source=google&utm_medium=search&utm_campaign=JHU_GenAI_Int_Search_Prompt_Broad_Exact_US_Course&campaign_id=22058613979&adgroup_id=175600325754&ad_id=726505587589&utm_target=kwd-824352977215&Keyword=ai%20engineer%20course&placement=&custom_lp=ai%20engineer%20course&gad_source=1&gad_campaignid=22058613979&gbraid=0AAAAACoiIDoOaS7qS5as4lWSSjxk9d8px&gclid=Cj0KCQiA18DMBhDeARIsABtYwT21WWBMQBeqfrwLIq2HZxBHTKl3QiscyKU28PoNI91bo3CnQcMNGcoaAjQSEALw_wcB
+https://www.manning.com/books/sutskevers-list?utm_campaign=21614445-book_heimann&utm_content=369182094&utm_medium=social&utm_source=facebook&hss_channel=fbp-234472245021

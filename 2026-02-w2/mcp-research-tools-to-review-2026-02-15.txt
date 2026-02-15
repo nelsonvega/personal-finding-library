@@ -1,0 +1,16 @@
+https://gofastmcp.com/getting-started/installation
+https://gofastmcp.com/development/tests
+https://modelcontextprotocol.io/docs/tools/inspector
+https://www.google.com/search?q=mcp+inspector&oq=mcp+inspector&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORixAxiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDE4NjlqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8
+https://gofastmcp.com/getting-started/welcome
+https://www.google.com/search?q=how+to+enable+quantconnect+mcp+into+claude+code&oq=how+to+enable+quantconnect+mcp+into+claude+code&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRirAjIHCAYQIRirAjIHCAcQIRirAjIHCAgQIRiPAtIBCDkxODZqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:01eac364,vid:qAcTPMXbfyU,st:46
+https://www.quantconnect.com/docs/v2/ai-assistance/mcp-server/claude-code
+https://modelcontextprotocol.io/docs/tools/inspector
+https://www.google.com/search?q=why+is+my+mcp+filesystem+failed&oq=why+is+my+mcp+filesystem+failed&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigATIHCAYQIRirAjIHCAcQIRirAtIBCTE3ODA4ajBqMagCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:d206f5c5,vid:E0ID8llQXuM,st:47
+https://www.google.com/search?q=fastMCPResult&sca_esv=33887d7ce87e6d2b&biw=1279&bih=953&sxsrf=ANbL-n4qKiPlZd-8ztzSxzSVhDZroHoYJg%3A1771012129372&ei=IYCPaajBFoStp84Ps9mn8AQ&ved=0ahUKEwjo1fSmnteSAxWE1skDHbPsCU4Q4dUDCBM&uact=5&oq=fastMCPResult&gs_lp=Egxnd3Mtd2l6LXNlcnAiDWZhc3RNQ1BSZXN1bHQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBEiNCVCpAljqB3ABeAGQAQCYAXGgAYEFqgEDMS41uAEDyAEA-AEBmAIHoAKYBcICChAAGLADGNYEGEfCAg0QABiABBiwAxhDGIoFwgINEC4YgAQYxwEYDRivAcICBxAAGIAEGA3CAgYQABgNGB7CAhwQLhiABBjHARgNGK8BGJcFGNwEGN4EGOAE2AEBwgIIEAAYogQYiQWYAwCIBgGQBgq6BgYIARABGBSSBwMyLjWgB_AasgcDMS41uAeVBcIHBTAuNi4xyAcQgAgA&sclient=gws-wiz-serp
+https://gofastmcp.com/getting-started/quickstart
+https://mcpmarket.com/server/interactive-brokers-1
+https://www.interactivebrokers.com/campus/tag/model-context-protocol-mcp/
+https://www.interactivebrokers.com/campus/ibkr-quant-news/reproducible-quantitative-research-beyond-pure-mcp-workflows/
+https://www.google.com/search?q=interactivebrokers+mcp&oq=interactivebrokers+mcp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCggGEAAYCBgNGB4yDQgHEAAYhgMYgAQYigUyDQgIEAAYhgMYgAQYigUyDQgJEAAYhgMYgAQYigXSAQg4NDk1ajBqMagCALACAA&sourceid=chrome&ie=UTF-8
+https://gofastmcp.com/integrations/fastapi
